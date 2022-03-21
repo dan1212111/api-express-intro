@@ -1,0 +1,27 @@
+{
+  "name": "api-express-intro",
+  "version": "1.0.0",
+  "description": "## Learning Objectives",
+  "main": "index.js",
+  "scripts": {
+    "start" : "nodemon index.js"
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dan1212111/api-express-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dan1212111/api-express-intro/issues"
+  },
+  "homepage": "https://github.com/dan1212111/api-express-intro#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
